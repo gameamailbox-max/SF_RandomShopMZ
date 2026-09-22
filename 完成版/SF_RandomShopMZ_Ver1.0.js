@@ -53,7 +53,7 @@
  *
  * @help
  * ============================================================================
- * SF_RandomShopMZ
+ * SF_RandomShopMZ_Ver1.0
  * ============================================================================
  *
  * 専用プラグインコマンドの直後に「ショップの処理」を配置することで、
@@ -183,7 +183,7 @@
 (() => {
     "use strict";
 
-    const pluginName = "SF_RandomShopMZ";
+    const pluginName = "SF_RandomShopMZ_Ver1.0";
 
     const parameters =
         PluginManager.parameters(pluginName);
